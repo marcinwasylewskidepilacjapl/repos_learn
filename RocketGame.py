@@ -26,7 +26,7 @@ class Fly_Machine:
 
 class Aeroplane(Fly_Machine):
     def __init__(self,name, country, passengers):
-        super(Aeroplane,self).__init__(name=name, country=country)
+        # super(Aeroplane,self).__init__(name=name, country=country)
         self.passengers = passengers
 class Rocket(Fly_Machine):
     pass
@@ -54,6 +54,7 @@ if __name__ == '__main__':
             choice2.capitalize()
             if choice2 == "S":
                 Machine_dict[nazwamaszyny] = Aeroplane(name,country, passengers=120)
+                a =1
             else:
                 Machine_dict[nazwamaszyny] = Rocket(name,country)
         if choice == 3:
