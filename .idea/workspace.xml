@@ -37,9 +37,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Shapes_Agregacja_kompozycja_k">
-    <configuration name="Car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Multiprocessing-Introduction">
+    <configuration name="MultiThreading-Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repos_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +52,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiThreading-Introduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiprocessing-Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="repos_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiprocessing-Introduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,17 +168,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.repos_learn" />
-      <item itemvalue="Python.Car" />
       <item itemvalue="Python.bank_program" />
       <item itemvalue="Python.Shapes" />
       <item itemvalue="Python.Shapes_Agregacja_kompozycja_k" />
+      <item itemvalue="Python.MultiThreading-Introduction" />
+      <item itemvalue="Python.Multiprocessing-Introduction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiprocessing-Introduction" />
+        <item itemvalue="Python.MultiThreading-Introduction" />
         <item itemvalue="Python.Shapes_Agregacja_kompozycja_k" />
         <item itemvalue="Python.Shapes" />
         <item itemvalue="Python.bank_program" />
-        <item itemvalue="Python.Car" />
       </list>
     </recent_temporary>
   </component>
